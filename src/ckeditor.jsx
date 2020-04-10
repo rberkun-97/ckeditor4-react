@@ -159,7 +159,7 @@ CKEditor.defaultProps = {
 	readOnly: false,
 };
 
-CKEditor.editorUrl = "../node_modules/ckeditor4/ckeditor.js";
+CKEditor.editorUrl = "https://cdn.ckeditor.com/4.5.7/full-all/ckeditor.js";
 CKEditor.displayName = "CKEditor";
 
 export default CKEditor;
